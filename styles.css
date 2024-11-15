@@ -1,0 +1,97 @@
+.head {
+    border: 2px solid black;
+    padding: 50px;
+    margin-top: 50px;
+    width: 0px;
+    height: 0px;
+    margin-left: 500px;
+    border-radius: 90px 90px 0px 0px;
+    background-color: black;
+  }
+  .b1{
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: -2px;
+    margin-left: 450px;
+    margin-right: 550px;
+    border-radius: 20px 0px 0px 20px;
+    background-color: black;
+
+  }
+  .b2{
+    border: 2px solid black;
+    padding: 15px;
+    margin-top: -2px;
+    margin-left: 480px;
+    margin-right: 640px;
+    border-radius: 0px 0px 180px 180px ;
+    background-color: black;
+
+  }
+  .b3{
+    border: 2px solid black;
+    padding: 15px;
+    margin-top: -2px;
+    margin-left: 480px;
+    margin-right: 640px;
+    border-radius: 180px 180px 0px 0px ;
+    background-color: black;
+  }
+  .b4{
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: -2px;
+    margin-left: 450px;
+    margin-right: 610px;
+    border-radius: 20px;
+    background-color: black;
+
+  }
+  .b5{
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: -88px;
+    margin-left: 670px;
+    margin-right: 550px;
+    border-radius: 0px 0px 20px 20px;
+    background-color: black;
+
+  }
+  .b6{
+    border: 2px solid black;
+    padding: 2px;
+    margin-top: -110px;
+    margin-left: 530px;
+    margin-right: 690px;
+    border-radius: 10px;
+    background-color: white;
+  }
+  .b7{
+    border: 2px solid black;
+    padding: 2px;
+    margin-top: 1px;
+    margin-left: 530px;
+    margin-right: 690px;
+    border-radius: 10px;
+    background-color: white;
+  }
+  .b8{
+    border: 2px solid black;
+    padding: 2px;
+    margin-top: 1px;
+    margin-left: 530px;
+    margin-right: 690px;
+    border-radius: 10px;
+    background-color: white;
+  }
+  .b9{
+    border: 2px solid black;
+    padding: 2px;
+    margin-top: -16px;
+    height: 0px;
+    margin-left: 549px;
+    margin-right: 720px;
+    border-radius: 20px 20px 20px 20px;
+    background-color: red;
+  }
+  
