@@ -94,4 +94,28 @@
     border-radius: 20px 20px 20px 20px;
     background-color: red;
   }
-  
+  .flag1{
+    border: 2px solid black;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 930px;
+    background-color: orange;
+
+  }
+  .ashoka{
+    border: 2px solid black;
+    padding: 20px;
+    margin-top: -2px;
+    margin-left: 100px;
+    margin-right: 930px;
+    background-color: white;
+  }
+  .green{
+    border: 2px solid black;
+    padding: 20px;
+    margin-top: -2px;
+    margin-left: 100px;
+    margin-right: 930px;
+    background-color: green;
+  }
